@@ -59,7 +59,7 @@ I fine-tuned three vision–language models on the same HAR dataset split:
 ##  How to Run
 ```bash
 # Clone repo
-git clone https://github.com/UmaimaKhan01/CLIPS-A4.git
+git clone https://github.com/manisai026/CLIPS-A4.git
 cd CLIPS-A4
 
 # Set PYTHONPATH
